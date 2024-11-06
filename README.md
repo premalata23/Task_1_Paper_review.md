@@ -1,4 +1,4 @@
-# **TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data**
+# **TCGAbiolinks: Stage 1 an R/Bioconductor package for integrative analysis of TCGA data**
 ### **Authors** ([@slack](https://slack.com/)):
 - Dua Gulzar ([@Dua](https://hackbiointern-leo4437.slack.com/team/U07K6A4L18C))
 - Premalata Pati ([@Premalata](https://hackbiointern-leo4437.slack.com/team/U07JD8NKQ30))
